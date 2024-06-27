@@ -1,13 +1,13 @@
 
 Pod::Spec.new do |s|
   s.name             = 'iOSTestSDK'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'Test SDK'
   s.description      = <<-DESC
   A longer description of your SDK.
   DESC
   s.homepage         = 'https://github.com/Amani95-TA/iOSTestSDK'
-  s.license          = { :type => 'MIT', :file => 'LICENSE' }
+  s.license          =  'MIT'
   s.author           = { 'mob@sedrapay.com' => 'mob@sedrapay.com' }
   s.platforms        = { :ios => '12.0' }
   s.source           = { :git => 'https://github.com/Amani95-TA/iOSTestSDK.git', :tag => s.version.to_s }
