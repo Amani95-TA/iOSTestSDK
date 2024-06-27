@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/iOSTestSDK-Swift.h</key>
 		<data>
-		fPF+UsEhikTU6Y5VS/GxCN+ywNU=
+		y0qHtaIdeGw06VJX5Cv5Wthgc3I=
 		</data>
 		<key>Headers/iOSTestSDK.h</key>
 		<data>
@@ -14,27 +14,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		s2LGPtSJOHg+dhBRQezovvQ++yU=
+		FA7EXh7R7CZKg6MoSA65UXVi9fs=
 		</data>
-		<key>Modules/iOSTestSDK.swiftmodule/arm64-apple-ios.abi.json</key>
+		<key>Modules/iOSTestSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
 		ZIvO+DOlCTLMrO/H9BKpSXTyark=
 		</data>
-		<key>Modules/iOSTestSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<key>Modules/iOSTestSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		2PeXwrZxK4v/Zna3sC9qEBSFpWk=
+		C62G0MiLm5OjccVCszlX6Slzjus=
 		</data>
-		<key>Modules/iOSTestSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<key>Modules/iOSTestSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		kXJww4lGVFtSQe8q+BtO4AmXQbA=
+		JacSoJHLd8MIKYuWZGRocXG5bTM=
 		</data>
-		<key>Modules/iOSTestSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<key>Modules/iOSTestSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		2PeXwrZxK4v/Zna3sC9qEBSFpWk=
+		C62G0MiLm5OjccVCszlX6Slzjus=
 		</data>
-		<key>Modules/iOSTestSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<key>Modules/iOSTestSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		VwjD/tntCRDfoCZqVDq3a9zQZpw=
+		3zT2PFOMaVktFxLOpD8pfrH/rII=
+		</data>
+		<key>Modules/iOSTestSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<data>
+		ZIvO+DOlCTLMrO/H9BKpSXTyark=
+		</data>
+		<key>Modules/iOSTestSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		+JgA3x279jdSKI8R41hS3jpInTY=
+		</data>
+		<key>Modules/iOSTestSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		GUT2LYNO4TRnd8kGW83Js9kFFQo=
+		</data>
+		<key>Modules/iOSTestSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		+JgA3x279jdSKI8R41hS3jpInTY=
+		</data>
+		<key>Modules/iOSTestSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		G0qD+c8y734ekbgR6OJ2PwU9zzA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -79,7 +99,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yYzbc2oz8jbNkVzpcl+ehtHEqhdk+AZNMhA6Dk53cWs=
+			6MyEPzm7i1a9nTBAtYDrYbyxA91IfAG/XE3i7Yj1GnQ=
 			</data>
 		</dict>
 		<key>Headers/iOSTestSDK.h</key>
@@ -89,39 +109,74 @@
 			B3AGtu/hmwHuI14NWWycd/CR9Vryph/JD4ru9m02sTQ=
 			</data>
 		</dict>
-		<key>Modules/iOSTestSDK.swiftmodule/arm64-apple-ios.abi.json</key>
+		<key>Modules/iOSTestSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			6H7MovA1MybCYhJFMFztl4/wi7CnWOyPfYGop67Cst4=
 			</data>
 		</dict>
-		<key>Modules/iOSTestSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<key>Modules/iOSTestSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Tetui7+5NC1MvQTMLTLU4cyKqSAxnJd0m7z0qybBRcc=
+			wOAuyaAUYVJ48UbPzwgNPeHgFeNpJEK7a0zwNbuqxM0=
 			</data>
 		</dict>
-		<key>Modules/iOSTestSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<key>Modules/iOSTestSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WpkjucEm0v5Wlqmwcsdvort4QvJySY8h+GPN8NIOXUE=
+			jj1QjaMQnFXu+VfJkJtxHDHaNZ2CdTr/oLVmDoAB11M=
 			</data>
 		</dict>
-		<key>Modules/iOSTestSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<key>Modules/iOSTestSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Tetui7+5NC1MvQTMLTLU4cyKqSAxnJd0m7z0qybBRcc=
+			wOAuyaAUYVJ48UbPzwgNPeHgFeNpJEK7a0zwNbuqxM0=
 			</data>
 		</dict>
-		<key>Modules/iOSTestSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<key>Modules/iOSTestSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kutbrcwPdqjsuyREX7ZFEDtyYOzuVvZNSrLuknL0+Xw=
+			QooniPUuP3EsBW/pSDaDDFMPk3Bj3YdlVvSZp+JUe8E=
+			</data>
+		</dict>
+		<key>Modules/iOSTestSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6H7MovA1MybCYhJFMFztl4/wi7CnWOyPfYGop67Cst4=
+			</data>
+		</dict>
+		<key>Modules/iOSTestSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rwh17v4VGt4pM/9oStweqP2HrysluMApvxaRhcRHkl8=
+			</data>
+		</dict>
+		<key>Modules/iOSTestSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			R87rF+wVS+sSymdhoB19vAdbjVjisqroEG4zRdU8LIs=
+			</data>
+		</dict>
+		<key>Modules/iOSTestSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rwh17v4VGt4pM/9oStweqP2HrysluMApvxaRhcRHkl8=
+			</data>
+		</dict>
+		<key>Modules/iOSTestSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			z9BAFhcM/rKC8fCkOuqMvmnJWw+e7sDw8Dt1QXAoLGo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
