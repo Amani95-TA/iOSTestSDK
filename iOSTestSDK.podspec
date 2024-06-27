@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'iOSTestSDK'
-  s.version          = '1.0.1'
+  s.version          = '1.0.2'
   s.summary          = 'Test SDK'
   s.description      = <<-DESC
   A longer description of your SDK.
