@@ -19,7 +19,9 @@ iOSTestSDK is designed to make iOS testing easier and more efficient. It provide
 
 ## Installation
 
-To integrate iOSTestSDK into your Xcode project using CocoaPods, add the following line to your `Podfile`:
+### CocoaPods
+
+iOSTestSDK is available through [CocoaPods](https://cocoapods.org). To install it, simply add the following line to your `Podfile`:
 
 ```ruby
 pod 'iOSTestSDK'
