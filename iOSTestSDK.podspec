@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'iOSTestSDK'
-  s.version          = '1.0.2'
+  s.version          = '1.0.3'
   s.summary          = 'Test SDK'
   s.description      = <<-DESC
   A longer description of your SDK.
@@ -25,7 +25,7 @@ s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   # s.frameworks = 'UIKit'
 
   # If your SDK is a framework, use:
-  s.ios.vendored_frameworks = 'iOSTestSDK.xcframework'
+  s.ios.vendored_frameworks = 'Frameworks/iOSTestSDK.xcframework'
 
   # For more options and details, see the Podspec Reference: https://guides.cocoapods.org/syntax/podspec.html
 end
