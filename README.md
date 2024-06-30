@@ -1,21 +1,15 @@
 # iOSTestSDK
 
-A lightweight and powerful SDK for iOS testing.
+[![Version](https://img.shields.io/cocoapods/v/iOSTestSDK.svg?style=flat)](https://cocoapods.org/pods/iOSTestSDK)
+[![License](https://img.shields.io/cocoapods/l/iOSTestSDK.svg?style=flat)](https://cocoapods.org/pods/iOSTestSDK)
+[![Platform](https://img.shields.io/cocoapods/p/iOSTestSDK.svg?style=flat)](https://cocoapods.org/pods/iOSTestSDK)
 
-## Description
+iOSTestSDK is a framework for iOS.
 
-iOSTestSDK is designed to make iOS testing easier and more efficient. It provides a suite of tools and utilities to help you write, run, and manage your tests with ease.
+## Requirements
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Example](#example)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- iOS 10.0+
+- Xcode 12.0+
 
 ## Installation
 
